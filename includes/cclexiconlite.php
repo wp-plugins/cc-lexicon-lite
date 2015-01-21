@@ -13,7 +13,7 @@ class cclexiconlite {
 	const plugin_name = 'CC Lexicon Lite';
 
 	// Plugin version
-	const plugin_version = '1.0';
+	const plugin_version = '1.0.1';
 
 	// ID Count
 	protected static $cc_id_counter;
@@ -293,6 +293,8 @@ class cclexiconlite {
 			$links[] = '<a href="https://wordpress.org/support/view/plugin-reviews/cc-lexicon-lite" target="_blank">' . __('Rate this plugin...', 'cc-lexicon-lite') . '</a>';
 			$links[] = '<a href="http://cclexiconlite.ccplugins.co.uk/donate/" target="_blank">' . __('Donate...', 'cc-lexicon-lite') . '</a> ' . __('(Your donations keep this plugin free &amp; supported)', 'cc-lexicon-lite');
 		}
+		
+		return $links;
 	}
 
 	private static function the_slug($id) {

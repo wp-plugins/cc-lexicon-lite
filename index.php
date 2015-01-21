@@ -4,7 +4,7 @@ Plugin Name: CC Lexicon Lite
 Plugin URI: http://cclexiconlite.ccplugins.co.uk/
 Description: Provides a simple way to maintain and organise dictionary/glossary/FAQ type entries. Display is via an easy to use shortcode. 
 Author: Caterham Computing
-Version: 1.0
+Version: 1.0.1
 Author URI: http://www.caterhamcomputing.net/
 */
 include_once('includes/cclexiconlite.php');
