@@ -1,0 +1,265 @@
+.cclexicon-filter {
+  padding: 3px 5px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  margin: 3px 5px;
+}
+.cclexicon-term {
+  margin-bottom: 40px;
+  padding: 10px;
+}
+.cclexicon-title {
+  padding: 2px;
+}
+.cclexicon-description {
+  margin-left: 5%;
+}
+a.cclexicon-anchor {
+  color: inherit;
+  text-decoration: none;
+}
+#cclexicon-filters {
+  margin: 20px 0;
+}
+/* * Skins ... */
+.simple .cclexicon-filter-selected {
+  background: #eeeeee;
+  background: rgba(0, 0, 0, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0.3)), color-stop(100%, rgba(0, 0, 0, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+}
+.simple .cclexicon-term {
+  background: #eeeeee;
+  background: rgba(0, 0, 0, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0.3)), color-stop(100%, rgba(0, 0, 0, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+.simple .cclexicon-title {
+  background: #eeeeee;
+  background: rgba(0, 0, 0, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0.3)), color-stop(100%, rgba(0, 0, 0, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.ccred .cclexicon-filter-selected {
+  background: #ffeeee;
+  background: rgba(255, 0, 0, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 0, 0, 0.3)), color-stop(100%, rgba(255, 0, 0, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+}
+.ccred .cclexicon-term {
+  background: #ffeeee;
+  background: rgba(255, 0, 0, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 0, 0, 0.3)), color-stop(100%, rgba(255, 0, 0, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+.ccred .cclexicon-title {
+  background: #ffeeee;
+  background: rgba(255, 0, 0, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 0, 0, 0.3)), color-stop(100%, rgba(255, 0, 0, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(255, 0, 0, 0.3) 0%, rgba(255, 0, 0, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.ccgreen .cclexicon-filter-selected {
+  background: #eeffee;
+  background: rgba(0, 255, 0, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 255, 0, 0.3)), color-stop(100%, rgba(0, 255, 0, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+}
+.ccgreen .cclexicon-term {
+  background: #eeffee;
+  background: rgba(0, 255, 0, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 255, 0, 0.3)), color-stop(100%, rgba(0, 255, 0, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+.ccgreen .cclexicon-title {
+  background: #eeffee;
+  background: rgba(0, 255, 0, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 255, 0, 0.3)), color-stop(100%, rgba(0, 255, 0, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0, 255, 0, 0.3) 0%, rgba(0, 255, 0, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.ccblue .cclexicon-filter-selected {
+  background: #eeeeff;
+  background: rgba(0, 0, 255, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 255, 0.3)), color-stop(100%, rgba(0, 0, 255, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+}
+.ccblue .cclexicon-term {
+  background: #eeeeff;
+  background: rgba(0, 0, 255, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 255, 0.3)), color-stop(100%, rgba(0, 0, 255, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+.ccblue .cclexicon-title {
+  background: #eeeeff;
+  background: rgba(0, 0, 255, 0.3);
+  /* Fallback ... */
+  background: -moz-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 255, 0.3)), color-stop(100%, rgba(0, 0, 255, 0.1)));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0, 0, 255, 0.3) 0%, rgba(0, 0, 255, 0.1) 100%);
+  /* W3C */
+  color: #333333;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
