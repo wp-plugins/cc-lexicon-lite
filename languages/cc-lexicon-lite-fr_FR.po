@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CC Lexicon Lite\n"
+"POT-Creation-Date: 2015-01-21 16:28-0000\n"
+"PO-Revision-Date: 2015-01-21 16:37-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/cclexiconlite.php:39
+msgid "Lexicon Entries"
+msgstr "Lexicon entrées"
+
+#: includes/cclexiconlite.php:40
+msgid "Lexicon Entry"
+msgstr "Lexicon Entrée"
+
+#: includes/cclexiconlite.php:41 includes/cclexiconlite.php:42
+msgid "Add New Lexicon Entry"
+msgstr "Ajouter une nouvelle entrée Lexicon"
+
+#: includes/cclexiconlite.php:43
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/cclexiconlite.php:44
+msgid "Edit Lexicon Entry"
+msgstr "Modifier Lexicon Entrée"
+
+#: includes/cclexiconlite.php:45
+msgid "New Lexicon Entry"
+msgstr "New Lexicon Entrée"
+
+#: includes/cclexiconlite.php:46 includes/cclexiconlite.php:47
+msgid "View Lexicon Entry"
+msgstr "Voir Lexicon Entrée"
+
+#: includes/cclexiconlite.php:48
+msgid "Search Lexicon Entries"
+msgstr "Rechercher Lexique entrées"
+
+#: includes/cclexiconlite.php:49
+msgid "No Lexicon Entries"
+msgstr "Aucune candidature Lexicon"
+
+#: includes/cclexiconlite.php:50
+msgid "No Lexicon Entries in the Trash"
+msgstr "Aucune candidature Lexicon de la corbeille"
+
+#: includes/cclexiconlite.php:64
+msgid "Description and details of a Lexicon Entry"
+msgstr "Description et détails d'une entrée Lexicon"
+
+#: includes/cclexiconlite.php:74 includes/cclexiconlite.php:84
+msgid "Lexicon Category"
+msgstr "Lexicon Catégorie"
+
+#: includes/cclexiconlite.php:75
+msgid "Search Lexicon Categories"
+msgstr "Recherche Lexicon Catégories"
+
+#: includes/cclexiconlite.php:76
+msgid "Popular Lexicon Categories"
+msgstr "Lexicon populaires Catégories"
+
+#: includes/cclexiconlite.php:77
+msgid "All Lexicon Categories"
+msgstr "Tous les Lexicon Catégories"
+
+#: includes/cclexiconlite.php:78
+msgid "Parent Lexicon Category"
+msgstr "Parent Lexicon Catégorie"
+
+#: includes/cclexiconlite.php:79
+msgid "Parent Lexicon Category:"
+msgstr "Parent Lexicon Catégorie:"
+
+#: includes/cclexiconlite.php:80
+msgid "Edit Lexicon Category"
+msgstr "Modifier Lexicon Catégorie"
+
+#: includes/cclexiconlite.php:81
+msgid "Update Lexicon Category"
+msgstr "Mise à jour Lexicon Catégorie"
+
+#: includes/cclexiconlite.php:82
+msgid "Add New Lexicon Category"
+msgstr "Ajouter un nouveau Lexicon Catégorie"
+
+#: includes/cclexiconlite.php:83
+msgid "New Lexicon Category"
+msgstr "nouvelle Lexicon Catégorie"
+
+#: includes/cclexiconlite.php:88
+msgid "Lexicon Categories"
+msgstr "Lexicon Catégories"
+
+#: includes/cclexiconlite.php:112
+msgid "Click on any term below to reveal the description."
+msgstr "Cliquez sur un terme pour révéler la"
+
+#: includes/cclexiconlite.php:186
+msgid "Filter"
+msgstr "Filtre"
+
+#: includes/cclexiconlite.php:186
+msgid "Show All"
+msgstr "Tout afficher"
+
+#: includes/cclexiconlite.php:284 includes/cclexiconlite.php:293
+msgid "Rate this plugin..."
+msgstr "Évaluez ce plugin ..."
+
+#: includes/cclexiconlite.php:294
+msgid "Donate..."
+msgstr "Faites un don ..."
+
+#: includes/cclexiconlite.php:294
+msgid "(Your donations keep this plugin free &amp; supported)"
+msgstr "(Vos dons garder ce plugin gratuit et soutenue)"
