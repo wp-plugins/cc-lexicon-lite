@@ -6,7 +6,7 @@ Plugin URI: http://cclexiconlite.ccplugins.co.uk/
 Author URI: http://www.caterhamcomputing.net/
 Donate Link: http://cclexiconlite.ccplugins.co.uk/donate/
 Requires at least: 4.0
-Tested up to: 4.1
+Tested up to: 4.2.2
 Stable tag: 1.0.1
 Version: 1.0.1
 Tags: lexicon,shortcode,dictionary,term,terms,definitions,glossary,glossaries,list,lists,FAQs,FAQ
